@@ -1,0 +1,11 @@
+<resources>
+    <string name="about_page_description" translatable="false" > App Version : 1.0</string>
+
+    <string name="about_contact_us">Contact us</string>
+    
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Play Store</string>
+    
+    <string name="about_twitter">Follow us on Twitter</string>
+    
+</resources>
